@@ -1,1 +1,10 @@
-
+     <?xml >
+         <bug_report>
+             <Bug_summary> </Bug_summary>
+             <Description> </Description>
+             <Severity> </Severity>
+             <Steps_to_reproduce> </Steps_to_reproduce>
+             <Actual_result> </Actual_result>
+             <Expected_result> </Expected_result>
+             <Build_found> </Build_found>
+         </bug_report>
